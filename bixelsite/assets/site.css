@@ -4,7 +4,7 @@
 ================================================================ */
 :root{
   /* ---- light palette (default) ---- */
-  --bg:#F5F4F0;
+  --bg:#F0EDE6;
   --bg-2:#FFFFFF;
   --card:#FFFFFF;
   --line:#E2E0D9;
@@ -13,7 +13,7 @@
   --muted:#55555F;
   --dim:#9A9A9F;
   --accent:#1A1A2E;
-  --accent-2:#E8462A;     /* warm red — used sparingly for italic/em emphasis */
+  --accent-2:#DB4727;     /* warm red — used sparingly for italic/em emphasis */
   --noise:.08;
   --shadow:0 1px 3px rgba(20,20,30,.07);
   --photo-bg:#E8E5DC;
@@ -28,7 +28,7 @@
   --muted:#86868F;
   --dim:#5A5A64;
   --accent:#B4BEF5;
-  --accent-2:#F07060;
+  --accent-2:#DB4727;
   --noise:.28;
   --shadow:0 1px 0 rgba(255,255,255,.03);
   --photo-bg:#1E1E24;
